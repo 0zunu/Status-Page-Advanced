@@ -1,20 +1,20 @@
 [
   {
-    "name": "Kingulee.com",
-    "url": "https://www.kingulee.com/",
-    "icon": "https://kingulee.com/images/logo.png",
-    "slug": "kingulee-com",
+    "name": "azriel.id",
+    "url": "https://www.azriel.id",
+    "icon": "https://www.azriel.id/images/logo.png",
+    "slug": "azriel-id",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 554,
-    "timeWeek": 505,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "time": 847,
+    "timeDay": 847,
+    "timeWeek": 847,
+    "timeMonth": 847,
+    "timeYear": 847,
     "dailyMinutesDown": {}
   }
 ]
