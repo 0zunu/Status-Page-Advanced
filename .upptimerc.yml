@@ -3,17 +3,17 @@ owner: King-Ulee # Your GitHub organization or username, where this repository l
 repo: Status-Page-Advanced # The name of this repository
 
 sites:
-  - name: Kingulee.com
-    url: https://www.kingulee.com/
-    icon: https://kingulee.com/images/logo.png
+  - name: azriel.id
+    url: https://www.azriel.id
+    icon: https://www.azriel.id/images/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: kingulee.my.id
   # baseUrl: /Status-Page-Advanced
-  faviconSvg: https://kingulee.com/favicon.ico
-  logoUrl: https://kingulee.com/favicon.ico
+  faviconSvg: https://www.azriel.id/favicon.ico
+  logoUrl: https://www.azriel.id/favicon.ico
   theme: night
   name: Status
   introTitle: "Monitoring Website"
@@ -24,11 +24,11 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Artikel
-      href: https://www.kingulee.com/artikel/
+      href: https://www.azriel.id/articles/
     - title: Discord
       href: https://discord.gg/VzUR95y
 
 i18n:
-  footer: This page is hosted on GitHub [King Ulee]($REPO) project since @2023-09-10, & created by [King Ulee](https://www.kingulee.com/).
+  footer: This page is hosted on GitHub [King Ulee]($REPO) project since @2023-09-10, & created by [King Ulee](https://www.azriel.id/).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
