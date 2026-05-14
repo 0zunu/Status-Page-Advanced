@@ -2,7 +2,7 @@
   {
     "name": "azriel.id",
     "url": "https://www.azriel.id",
-    "icon": "https://www.azriel.id/images/logo.png",
+    "icon": "https://www.azriel.id/favicon.ico",
     "slug": "azriel-id",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 381,
-    "timeWeek": 513,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "time": 485,
+    "timeDay": 321,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {}
   }
 ]
