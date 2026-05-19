@@ -4,17 +4,17 @@
     "url": "https://www.azriel.id",
     "icon": "https://www.azriel.id/favicon.ico",
     "slug": "azriel-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 406,
-    "timeWeek": 397,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "time": 577,
+    "timeDay": 933,
+    "timeWeek": 617,
+    "timeMonth": 577,
+    "timeYear": 577,
     "dailyMinutesDown": {}
   }
 ]
