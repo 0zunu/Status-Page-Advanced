@@ -1,12 +1,12 @@
-# [📈 Live Status](https://0zunu.github.io/Status): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.azriel.id): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [0zunu](https://www.azriel.id), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/0zunu/Status/workflows/Uptime%20CI/badge.svg)](https://github.com/0zunu/Status/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/0zunu/Status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/0zunu/Status/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/0zunu/Status/workflows/Graphs%20CI/badge.svg)](https://github.com/0zunu/Status/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/0zunu/Status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/0zunu/Status/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/0zunu/Status/workflows/Summary%20CI/badge.svg)](https://github.com/0zunu/Status/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/uptime.yml/badge.svg)](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/uptime.yml)
+[![Response Time CI](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/response-time.yml/badge.svg)](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/response-time.yml)
+[![Graphs CI](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/graphs.yml/badge.svg)](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/graphs.yml)
+[![Static Site CI](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/site.yml/badge.svg)](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/site.yml)
+[![Summary CI](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/summary.yml/badge.svg)](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/summary.yml)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/0zunu/Status/issues) as incident reports, [Actions](https://github.com/0zunu/Status/actions) as uptime monitors, and [Pages](https://0zunu.github.io/Status) for the status page.
 
