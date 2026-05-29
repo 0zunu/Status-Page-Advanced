@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://0zunu.github.io/Status)
+[**Visit our status website →**](https://status.azriel.id)
 
 ## 📄 License
 
