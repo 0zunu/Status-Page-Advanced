@@ -23,7 +23,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Artikel
+    - title: Articles
       href: https://www.azriel.id/articles/
     - title: Discord
       href: https://discord.gg/KsgDCBaXUB
