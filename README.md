@@ -1,6 +1,6 @@
 # [📈 Live Status](https://0zunu.github.io/Status-Page-Advanced): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [0zunu](https://0zunu.github.io/Status-Page-Advanced), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Azriel Fidzlie](https://0zunu.github.io/Status-Page-Advanced), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/0zunu/Status-Page-Advanced/workflows/Uptime%20CI/badge.svg)](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/0zunu/Status-Page-Advanced/workflows/Response%20Time%20CI/badge.svg)](https://github.com/0zunu/Status-Page-Advanced/actions/workflows/response-time.yml)
