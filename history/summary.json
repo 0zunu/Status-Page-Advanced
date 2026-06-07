@@ -2,7 +2,7 @@
   {
     "name": "azriel.id",
     "url": "https://www.azriel.id",
-    "icon": "https://icons.duckduckgo.com/ip3/www.azriel.id.ico",
+    "icon": "https://www.azriel.id/favicon.ico",
     "slug": "azriel-id",
     "status": "up",
     "uptime": "99.82%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 462,
-    "timeDay": 395,
-    "timeWeek": 387,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "time": 456,
+    "timeDay": 347,
+    "timeWeek": 372,
+    "timeMonth": 456,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2026-05-19": 79
     }
