@@ -9,7 +9,7 @@ sites:
 
 status-website:
   cname: status.azriel.id
-  robotsText: "User-agent:
+ robotsText: "User-agent: * \n Disallow: /"
   # baseUrl: /Status-Page-Advanced
   faviconSvg: https://www.azriel.id/favicon.ico
   logoUrl: https://www.azriel.id/favicon.ico
