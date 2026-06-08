@@ -5,18 +5,16 @@
     "icon": "https://www.azriel.id/favicon.ico",
     "slug": "azriel-id",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 456,
-    "timeDay": 347,
-    "timeWeek": 372,
-    "timeMonth": 456,
-    "timeYear": 456,
-    "dailyMinutesDown": {
-      "2026-05-19": 79
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 457,
+    "timeDay": 331,
+    "timeWeek": 351,
+    "timeMonth": 457,
+    "timeYear": 457,
+    "dailyMinutesDown": {}
   }
 ]
