@@ -16,7 +16,7 @@ status-website:
   theme: night
   name: Status
   introTitle: "Monitoring Website"
-  introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/0zunu/Status-Page-Advanced).
+  introMessage: The monitoring **real-time** data.
   navbar:
     - title: Home
       href: /
