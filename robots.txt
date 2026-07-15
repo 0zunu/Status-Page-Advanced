@@ -1,2 +1,3 @@
 User-agent: * 
- Allow: /
+ Allow: / 
+ Sitemap: https://status.azriel.id/sitemap.xml
