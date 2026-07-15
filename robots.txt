@@ -1,3 +1,0 @@
-User-agent: *
- Allow: /
- Sitemap: https://status.azriel.id/sitemap.xml
