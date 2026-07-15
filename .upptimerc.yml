@@ -10,7 +10,7 @@ sites:
 status-website:
   cname: status.azriel.id
   # baseUrl: /Status-Page-Advanced
-  robotsText: "User-agent: *\n Allow: /\n Sitemap: https://status.azriel.id/sitemap.xml"
+  # robotsText: "User-agent: * \n Allow: / "
   faviconSvg: https://www.azriel.id/favicon.ico
   logoUrl: https://www.azriel.id/favicon.ico
   theme: night
