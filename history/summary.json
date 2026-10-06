@@ -11,10 +11,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 777,
-    "timeWeek": 505,
+    "timeDay": 622,
+    "timeWeek": 500,
     "timeMonth": 480,
     "timeYear": 404,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "E-Learning SMKN 34 Jakarta",
+    "url": "https://elearningsmkn34jkt.sch.id/",
+    "icon": "https://elearningsmkn34jkt.sch.id/favicon.ico",
+    "slug": "e-learning-smkn-34-jakarta",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   }
 ]
