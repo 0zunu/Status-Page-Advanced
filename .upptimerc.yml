@@ -6,6 +6,11 @@ sites:
   - name: azriel.id
     url: https://www.azriel.id
     icon: https://www.azriel.id/favicon.ico
+  - name: E-Learning SMKN 34 Jakarta
+    url: https://elearningsmkn34jkt.sch.id/
+    icon: https://elearningsmkn34jkt.sch.id/favicon.ico
+    type: globalping
+    location: jakarta
 
 status-website:
   cname: status.azriel.id
