@@ -19,12 +19,12 @@ status-website:
   faviconSvg: https://www.azriel.id/favicon.ico
   logoUrl: https://www.azriel.id/favicon.ico
   theme: night
-  name: Azriel Status
+  name: Status Page Advanced
   introTitle: "Monitoring Website"
   introMessage: The monitoring **real-time** data.
   navbar:
     - title: Home
-      href: https://www.azriel.id
+      href: /
     - title: Discord
       href: https://discord.gg/KsgDCBaXUB
 
