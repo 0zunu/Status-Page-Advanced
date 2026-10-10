@@ -8,7 +8,7 @@ sites:
     icon: https://www.azriel.id/favicon.ico
   - name: E-Learning SMKN 34 Jakarta
     url: https://elearningsmkn34jkt.sch.id/
-    icon: https://elearningsmkn34jkt.sch.id/favicon.ico
+    icon: https://elearningsmkn34jkt.sch.id/assets/img/icon/1768199336_77ecf7d1e9d071dc12aa.png
     type: globalping
     location: jakarta
 
