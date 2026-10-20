@@ -1,20 +1,20 @@
 [
   {
-    "name": "</azriel.id>",
+    "name": "</azriel.>",
     "url": "https://www.azriel.id",
     "icon": "https://www.azriel.id/favicon.ico",
-    "slug": "azriel-id",
+    "slug": "azriel",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 473,
-    "timeWeek": 533,
-    "timeMonth": 522,
-    "timeYear": 416,
+    "time": 515,
+    "timeDay": 515,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 508,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "time": 574,
+    "timeDay": 574,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1643,
-    "timeDay": 1643,
-    "timeWeek": 1643,
-    "timeMonth": 1643,
-    "timeYear": 1643,
+    "time": 1596,
+    "timeDay": 1596,
+    "timeWeek": 1596,
+    "timeMonth": 1596,
+    "timeYear": 1596,
     "dailyMinutesDown": {}
   }
 ]
