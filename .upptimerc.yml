@@ -10,10 +10,12 @@ sites:
     url: https://elearningsmkn34jkt.sch.id
     icon: https://elearningsmkn34jkt.sch.id/assets/img/icon/1768199336_77ecf7d1e9d071dc12aa.png
     type: globalping
-    location: jakarta
+    location: singapore
   - name: KIAT
     url: https://antamkiat.com
     icon: https://antamkiat.com/favicon.ico
+    type: globalping
+    location: singapore
 
 status-website:
   cname: status.azriel.id
