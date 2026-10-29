@@ -4,18 +4,20 @@
     "url": "https://www.azriel.id",
     "icon": "https://www.azriel.id/favicon.ico",
     "slug": "azriel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 651,
-    "timeWeek": 563,
-    "timeMonth": 556,
-    "timeYear": 556,
-    "dailyMinutesDown": {}
+    "time": 525,
+    "timeDay": 398,
+    "timeWeek": 511,
+    "timeMonth": 525,
+    "timeYear": 525,
+    "dailyMinutesDown": {
+      "2026-10-29": 0
+    }
   },
   {
     "name": "SMKN 34 Jakarta E-Learning",
