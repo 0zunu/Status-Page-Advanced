@@ -1,7 +1,7 @@
 url: https://www.azriel.id
-status: up
-code: 200
-responseTime: 651
-lastUpdated: 2026-10-29T02:11:47.055Z
+status: down
+code: 503
+responseTime: 144
+lastUpdated: 2026-10-29T08:57:25.320Z
 startTime: 2026-10-20T21:37:35.654Z
 generator: Upptime <https://github.com/upptime/upptime>
