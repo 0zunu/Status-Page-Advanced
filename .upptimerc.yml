@@ -18,7 +18,7 @@ sites:
     location: singapore
   - name: Nexara Tech
     url: https://www.nexaratech.id
-    icon: https://www.nexaratech.id/favicon.ico
+    icon: https://www.nexaratech.id/assets/images/favicon/favicon.ico
 
 status-website:
   cname: status.azriel.id
