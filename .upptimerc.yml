@@ -16,6 +16,9 @@ sites:
     icon: https://antamkiat.com/favicon.ico
     type: globalping
     location: singapore
+  - name: Nexara Tech
+    url: https://www.nexaratech.id
+    icon: https://www.nexaratech.id/favicon.ico
 
 status-website:
   cname: status.azriel.id
