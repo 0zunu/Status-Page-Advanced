@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 406,
+    "timeDay": 493,
     "timeWeek": 485,
     "timeMonth": 519,
     "timeYear": 519,
@@ -40,9 +40,9 @@
     "url": "https://antamkiat.com",
     "icon": "https://antamkiat.com/favicon.ico",
     "slug": "kiat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 348,
     "timeMonth": 563,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-30": 0
+    }
   },
   {
     "name": "Nexara Tech",
