@@ -14,8 +14,6 @@ sites:
   - name: KIAT
     url: https://antamkiat.com
     icon: https://antamkiat.com/favicon.ico
-    type: globalping
-    location: singapore
   - name: Nexara Tech
     url: https://www.nexaratech.id
     icon: https://www.nexaratech.id/assets/images/favicon/favicon.ico
