@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 472,
-    "timeWeek": 478,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "time": 496,
+    "timeDay": 376,
+    "timeWeek": 451,
+    "timeMonth": 496,
+    "timeYear": 496,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 853,
-    "timeWeek": 915,
-    "timeMonth": 930,
-    "timeYear": 930,
+    "time": 984,
+    "timeDay": 1327,
+    "timeWeek": 1020,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://antamkiat.com/favicon.ico",
     "slug": "kiat",
     "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "87.00%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
+    "uptime": "96.40%",
+    "uptimeDay": "63.15%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "96.40%",
     "time": 563,
-    "timeDay": 361,
-    "timeWeek": 348,
+    "timeDay": 0,
+    "timeWeek": 356,
     "timeMonth": 563,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2026-10-30": 187
+      "2026-10-31": 185,
+      "2026-10-30": 346
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 312,
-    "timeWeek": 312,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 366,
+    "timeDay": 480,
+    "timeWeek": 366,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   }
 ]
